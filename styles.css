@@ -1,0 +1,38 @@
+body {
+    background-color: #360a31;
+    color: white;
+    margin: 50px 100px 100px 50px;
+  }
+
+h1 {
+    color: pink;
+    font: sans-serif;
+}
+
+p, img, a {
+    color: pink;
+}
+
+ul {
+    color: pink;
+}
+
+.favorites {
+    color: lightcoral;
+}
+
+#name-heading {
+    color: lightcoral;
+}
+
+#hometown-heading {
+    color: lightblue;
+}
+
+#pets-heading {
+    color: lightgoldenrodyellow;
+}
+
+#favorites-heading {
+    color: lightgreen;
+}
